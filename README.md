@@ -3,7 +3,7 @@
 Este script fue creado con el propósito de **romper la base de datos** de un sitio web malicioso que intentó estafarme haciéndose pasar por un banco legítimo. Utiliza técnicas automatizadas para enviar solicitudes masivas y datos falsos, desbordando sus sistemas y exponiendo sus vulnerabilidades.
 
 ## 📖 Historia y Contexto
-La historia completa de cómo descubrí el intento de estafa y cómo decidí contraatacar está documentada en mi blog. Puedes leer todos los detalles aquí: [Mi Blog](https://blog.edunavajas.com/ciberestafa)
+La historia completa de cómo descubrí el intento de estafa y cómo decidí contraatacar está documentada en mi blog. Puedes leer todos los detalles aquí: [Mi Blog](https://blog.edunavajas.com/blog/ciberestafa)
 
 
 ## 📦 Requisitos
